@@ -23,6 +23,9 @@ public class User {
         this.email = email;
     }
 
+    public User(String email, Long movieId, Long movieId1) {
+    }
+
     public Long getId() {
         return id;
     }
