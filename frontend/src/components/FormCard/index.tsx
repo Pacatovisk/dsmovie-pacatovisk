@@ -46,7 +46,6 @@ function FormCard( { movieId } : Props) {
 
         axios(config).then(response => {
             navigete("/");
-            alert("Filme atualizado com sucesso!");
         });
 
     }
