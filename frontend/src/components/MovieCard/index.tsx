@@ -23,7 +23,6 @@ function MovieCard( { movie } : Props ) {
               
             </div>
         </div>
-
     );
 }
 
